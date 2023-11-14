@@ -1,0 +1,85 @@
+1 Amphin Mutineer #mid value
+1 Defiler of Dreams #mid value#draw
+1 Faerie Artisans #mid value
+1 Forgotten Ancient #mid value
+1 Managorger Hydra #mid value
+1 Silverback Elder #mid value
+1 Tendershoot Dryad #mid value
+1 Thundering Mightmare #mid value
+1 An Offer You Can't Refuse #interaction 
+1 Baral's Expertise #interaction 
+1 Beast Within #interaction 
+1 Cemetery Prowler #interaction 
+1 Counterspell #interaction 
+1 Curfew #interaction #protection
+1 Decisive Denial #interaction 
+1 Mocking Doppelganger #interaction 
+1 Perplexing Test #interaction 
+1 Rapid Hybridization #interaction 
+1 Suspend #interaction #protection
+1 You Find a Cursed Idol #interaction #ramp
+1 Arcane Signet #ramp
+1 Birds of Paradise #ramp
+1 Gemhide Sliver #ramp
+1 Ilysian Caryatid #ramp
+1 Incubation Druid #ramp
+1 Llanowar Visionary #ramp#draw
+1 Manaweft Sliver #ramp
+1 Nature's Lore #ramp
+1 Nature's Will #ramp
+1 Ornithopter of Paradise #ramp
+1 Simic Signet #ramp
+1 Sylvan Caryatid #ramp
+1 Tangled Florahedron / Tangled Vale #ramp#!Land
+1 Three Visits #ramp
+1 Wild Growth #ramp
+1 Auspicious Starrix #win
+1 Biogenic Ooze #win
+1 End-Raze Forerunners #win
+1 God-Eternal Rhonas #win
+1 Hullbreaker Horror #win
+1 Spark Double #win#protection
+1 Bala Ged Recovery / Bala Ged Sanctuary #!Land
+1 Barkchannel Pathway / Tidechannel Pathway #!Land
+1 Breeding Pool #!Land
+1 Castle Garenbrig #!Land
+1 Command Beacon #!Land
+1 Command Tower #!Land
+1 Emergence Zone #!Land
+1 Flooded Grove #!Land
+10 Forest #!Land
+7 Island #!Land
+1 Mosswort Bridge #!Land
+1 Mystic Sanctuary #!Land
+1 Path of Ancestry #!Land
+1 Rejuvenating Springs #!Land
+1 Rimewood Falls #!Land
+1 Scavenger Grounds #!Land
+1 Waterlogged Grove #!Land
+1 Yavimaya Coast #!Land
+1 Yavimaya, Cradle of Growth #!Land
+1 Beast Whisperer #draw
+1 Bident of Thassa #draw
+1 Mulldrifter #draw
+1 Oakhame Adversary #draw
+1 Ohran Viper #draw
+1 Rashmi, Eternities Crafter #draw
+1 Reconnaissance Mission #draw
+1 Return of the Wildspeaker #draw
+1 Rishkar's Expertise #draw
+1 Shared Summons #draw#Combo 
+1 Threats Undetected #draw
+1 Vivien, Champion of the Wilds #draw
+1 Delay #protection
+1 Dispel #protection
+1 Heroic Intervention #protection
+1 Lightning Greaves #protection
+1 Saryth, the Viper's Fang #protection
+1 Teferi, Mage of Zhalfir #protection
+1 Temur Sabertooth #protection#Combo 
+1 Tidal Barracuda #protection
+1 Yeva, Nature's Herald #protection
+1 Peregrine Drake #Combo 
+1 Rampaging Baloths #late value
+1 Steel Hellkite #late value
+

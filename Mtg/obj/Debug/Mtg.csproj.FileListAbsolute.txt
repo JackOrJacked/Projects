@@ -1,0 +1,41 @@
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\bin\Debug\Mtg.exe.config
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\bin\Debug\Mtg.exe
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\bin\Debug\Mtg.pdb
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\bin\Debug\Control.Draggable.dll
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\bin\Debug\MoreLinq.dll
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\bin\Debug\System.ValueTuple.dll
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\bin\Debug\MoreLinq.pdb
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\bin\Debug\MoreLinq.xml
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\bin\Debug\System.ValueTuple.xml
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\obj\Debug\Mtg.Form1.resources
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\obj\Debug\Mtg.Properties.Resources.resources
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\obj\Debug\Mtg.csproj.GenerateResource.cache
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\obj\Debug\Mtg.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\obj\Debug\Mtg.csproj.CopyComplete
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\obj\Debug\Mtg.exe
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\obj\Debug\Mtg.pdb
+C:\Users\alessandro.chiesa\source\repos\Mtg\Mtg\obj\Debug\Mtg.csprojAssemblyReference.cache
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\bin\Debug\Mtg.exe.config
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\bin\Debug\Mtg.exe
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\bin\Debug\Mtg.pdb
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\bin\Debug\Control.Draggable.dll
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\bin\Debug\MoreLinq.dll
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\bin\Debug\System.ValueTuple.dll
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\bin\Debug\MoreLinq.pdb
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\bin\Debug\MoreLinq.xml
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\bin\Debug\System.ValueTuple.xml
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\obj\Debug\Mtg.csproj.AssemblyReference.cache
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\obj\Debug\Mtg.csproj.SuggestedBindingRedirects.cache
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\obj\Debug\Mtg.Form1.resources
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\obj\Debug\Mtg.Properties.Resources.resources
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\obj\Debug\Mtg.csproj.GenerateResource.cache
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\obj\Debug\Mtg.csproj.CoreCompileInputs.cache
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\obj\Debug\Mtg.csproj.CopyComplete
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\obj\Debug\Mtg.exe
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\obj\Debug\Mtg.pdb
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\obj\Debug\Mtg.Lande.resources
+C:\Users\jack\OneDrive - Università degli Studi di Torino\Desktop\Mtg\Mtg\obj\Debug\Mtg.RocksDorks.resources

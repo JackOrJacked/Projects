@@ -1,0 +1,528 @@
+{
+  "Dual": [
+    {
+      "nome": "Tundra",
+      "Colore": "W-U"
+    },
+    {
+      "nome": "Underground Sea",
+      "Colore": "U-B"
+    },
+    {
+      "nome": "Volcanic Island",
+      "Colore": "U-R"
+    },
+    {
+      "nome": "Bayou",
+      "Colore": "B-G"
+    },
+    {
+      "nome": "Plateau",
+      "Colore": "R-W"
+    },
+    {
+      "nome": "Badlands",
+      "Colore": "R-B"
+    },
+    {
+      "nome": "Savannah",
+      "Colore": "W-G"
+    },
+    {
+      "nome": "Scrubland",
+      "Colore": "W-B"
+    },
+    {
+      "nome": "Taiga",
+      "Colore": "R-G"
+    },
+    {
+      "nome": "Tropical Island",
+      "Colore": "U-G"
+    }
+  ],
+  "Shock": [
+    {
+      "nome": "Hallowed Fountain",
+      "Colore": "W-U"
+    },
+    {
+      "nome": "Watery Grave",
+      "Colore": "U-B"
+    },
+    {
+      "nome": "Steam Vents",
+      "Colore": "U-R"
+    },
+    {
+      "nome": "Overgrown Tomb",
+      "Colore": "B-G"
+    },
+    {
+      "nome": "Sacred Foundry",
+      "Colore": "R-W"
+    },
+    {
+      "nome": "Blood Crypt",
+      "Colore": "R-B"
+    },
+    {
+      "nome": "Temple Garden",
+      "Colore": "W-G"
+    },
+    {
+      "nome": "Godless Shrine",
+      "Colore": "W-B"
+    },
+    {
+      "nome": "Stomping Ground",
+      "Colore": "R-G"
+    },
+    {
+      "nome": "Breeding Pool",
+      "Colore": "U-G"
+    }
+  ],
+  "Fetch": [
+    {
+      "nome": "Flooded Strand",
+      "Colore": "W-U"
+    },
+    {
+      "nome": "Polluted Delta",
+      "Colore": "U-B"
+    },
+    {
+      "nome": "Bloodstained Mire",
+      "Colore": "B-R"
+    },
+    {
+      "nome": "Wooded Foothills",
+      "Colore": "R-G"
+    },
+    {
+      "nome": "Windswept Heath",
+      "Colore": "G-W"
+    },
+    {
+      "nome": "Marsh Flats",
+      "Colore": "W-B"
+    },
+    {
+      "nome": "Scalding Tarn",
+      "Colore": "U-R"
+    },
+    {
+      "nome": "Verdant Catacombs",
+      "Colore": "B-G"
+    },
+    {
+      "nome": "Arid Mesa",
+      "Colore": "R-W"
+    },
+    {
+      "nome": "Misty Rainforest",
+      "Colore": "G-U"
+    }
+  ],
+  "Triome": [
+    {
+      "nome": "Savai Triome",
+      "Colore": "WUB"
+    },
+    {
+      "nome": "Ketria Triome",
+      "Colore": "URG"
+    },
+    {
+      "nome": "Indatha Triome",
+      "Colore": "BGW"
+    },
+    {
+      "nome": "Raugrin Triome",
+      "Colore": "WUR"
+    },
+    {
+      "nome": "Zagoth Triome",
+      "Colore": "UBG"
+    },
+	{
+      "nome": "Jetmir's Garden",
+      "Colore": "RGW"
+    },
+	{
+      "nome": "Raffine's Tower",
+      "Colore": "WUB"
+    },
+	{
+      "nome": "Spara's Headquarters",
+      "Colore": "GRU"
+    },
+	{
+      "nome": "Xander's Lounge",
+      "Colore": "UBR"
+    },
+	{
+      "nome": "Ziatora's Proving Ground",
+      "Colore": "BRG"
+    }
+  ],
+  "Triland": [
+    {
+      "nome": "Seaside Citadel",
+      "Colore": "GWU"
+    },
+    {
+      "nome": "Arcane Sanctum",
+      "Colore": "WUB"
+    },
+    {
+      "nome": "Savage Lands",
+      "Colore": "BGR"
+    },
+    {
+      "nome": "Crumbling Necropolis",
+      "Colore": "UBR"
+    },
+    {
+      "nome": "Jungle Shrine",
+      "Colore": "RGW"
+    },
+    {
+      "nome": "Sandsteppe Citadel",
+      "Colore": "WBG"
+    },
+    {
+      "nome": "Mystic Monastery",
+      "Colore": "URW"
+    },
+    {
+      "nome": "Opulent Palace",
+      "Colore": "BGU"
+    },
+    {
+      "nome": "Nomad Outpost",
+      "Colore": "RWB"
+    },
+    {
+      "nome": "Frontier Bivouac",
+      "Colore": "GUR"
+    }
+  ],
+  "Vivid": [
+    {
+      "nome": "Vivid Grove",
+      "Colore": "G"
+    },
+    {
+      "nome": "Vivid Creek",
+      "Colore": "U"
+    },
+    {
+      "nome": "Vivid Marsh",
+      "Colore": "B"
+    },
+    {
+      "nome": "Vivid Crag",
+      "Colore": "R"
+    },
+    {
+      "nome": "Vivid Meadow",
+      "Colore": "W"
+    }
+  ],
+  "PainLands": [
+    {
+      "nome": "Adarkar Wastes",
+      "Colore": "WU"
+    },
+    {
+      "nome": "Brushland",
+      "Colore": "WG"
+    },
+    {
+      "nome": "Caves of Koilos",
+      "Colore": "WB"
+    },
+    {
+      "nome": "Karplusan Forest",
+      "Colore": "GR"
+    },
+    {
+      "nome": "Llanowar Wastes",
+      "Colore": "GB"
+    },
+    {
+      "nome": "Shivan Reef",
+      "Colore": "UR"
+    },
+    {
+      "nome": "Sulfurous Springs",
+      "Colore": "BR"
+    },
+    {
+      "nome": "Underground River",
+      "Colore": "UB"
+    },
+    {
+      "nome": "Yavimaya Coast",
+      "Colore": "GU"
+    }
+  ],
+  "ScryLands": [
+    {
+      "nome": "Temple of Abandon",
+      "Colore": "RG"
+    },
+    {
+      "nome": "Temple of Deceit",
+      "Colore": "UB"
+    },
+    {
+      "nome": "Temple of Enlightenment",
+      "Colore": "UW"
+    },
+    {
+      "nome": "Temple of Epiphany",
+      "Colore": "UR"
+    },
+    {
+      "nome": "Temple of Malady",
+      "Colore": "BG"
+    },
+    {
+      "nome": "Temple of Malice",
+      "Colore": "BR"
+    },
+    {
+      "nome": "Temple of Mystery",
+      "Colore": "GU"
+    },
+    {
+      "nome": "Temple of Plenty",
+      "Colore": "WG"
+    },
+    {
+      "nome": "Temple of Silence",
+      "Colore": "WB"
+    },
+    {
+      "nome": "Temple of Triumph",
+      "Colore": "WR"
+    }
+  ],
+  "Gates": [
+    {
+      "nome": "Azorius Guildgate",
+      "Colore": "WU"
+    },
+    {
+      "nome": "Dimir Guildgate",
+      "Colore": "UB"
+    },
+    {
+      "nome": "Rakdos Guildgate",
+      "Colore": "BR"
+    },
+    {
+      "nome": "Gruul Guildgate",
+      "Colore": "RG"
+    },
+    {
+      "nome": "Selesnya Guildgate",
+      "Colore": "GW"
+    },
+    {
+      "nome": "Orzhov Guildgate",
+      "Colore": "WB"
+    },
+    {
+      "nome": "Izzet Guildgate",
+      "Colore": "UR"
+    },
+    {
+      "nome": "Golgari Guildgate",
+      "Colore": "BG"
+    },
+    {
+      "nome": "Boros Guildgate",
+      "Colore": "WR"
+    },
+    {
+      "nome": "Simic Guildgate",
+      "Colore": "GU"
+    }
+],
+"FilterDual": [
+    {
+      "nome": "Mystic Gate",
+      "Colore": "WU"
+    },
+    {
+      "nome": "Sunken Ruins",
+      "Colore": "UB"
+    },
+    {
+      "nome": "Graven Cairns",
+      "Colore": "BR"
+    },
+    {
+      "nome": "Fire-Lit Thicket",
+      "Colore": "RG"
+    },
+    {
+      "nome": "Wooded Bastion",
+      "Colore": "GW"
+    },
+    {
+      "nome": "Fetid Heath",
+      "Colore": "WB"
+    },
+    {
+      "nome": "Cascade Bluffs",
+      "Colore": "UR"
+    },
+    {
+      "nome": "Twilight Mire",
+      "Colore": "BG"
+    },
+    {
+      "nome": "Rugged Prairie",
+      "Colore": "WR"
+    },
+    {
+      "nome": "Flooded Grove",
+      "Colore": "UG"
+    }
+],
+"Bounce": [
+    {
+      "nome": "Azorius Chancery",
+      "Colore": "WU"
+    },
+    {
+      "nome": "Dimir Aqueduct",
+      "Colore": "UB"
+    },
+    {
+      "nome": "Rakdos Carnarium",
+      "Colore": "BR"
+    },
+    {
+      "nome": "Gruul Turf",
+      "Colore": "RG"
+    },
+    {
+      "nome": "Selesnya Sanctuary",
+      "Colore": "GW"
+    },
+    {
+      "nome": "Orzhov Basilica",
+      "Colore": "WB"
+    },
+    {
+      "nome": "Izzet Boilerworks",
+      "Colore": "UR"
+    },
+    {
+      "nome": "Golgari Rot Farm",
+      "Colore": "BG"
+    },
+    {
+      "nome": "Boros Garrison",
+      "Colore": "WR"
+    },
+    {
+      "nome": "Simic Growth Chamber",
+      "Colore": "UG"
+    }
+],
+"SnowDual":[
+    {
+        "nome": "Alpine Meadow",
+        "Colore": "WR"
+    },
+    {
+        "nome": "Arctic Treeline",
+        "Colore": "GW"
+    },
+    {
+        "nome": "Glacial Floodplain",
+        "Colore": "WU"
+    },
+    {
+        "nome": "Highland Forest",
+        "Colore": "RG"
+    },
+    {
+        "nome": "Ice Tunnel",
+        "Colore": "UB"
+    },
+    {
+        "nome": "Rimewood Falls",
+        "Colore": "UG"
+    },
+    {
+        "nome": "Snowfield Sinkhole",
+        "Colore": "BW"
+    },
+    {
+        "nome": "Sulfurous Mire",
+        "Colore": "BR"
+    },
+    {
+        "nome": "Volatile Fjord",
+        "Colore": "UR"
+    },
+    {
+        "nome": "Woodland Chasm",
+        "Colore": "RG"
+    }
+],
+"PathWay": [
+    {
+      "nome": "Barkchannel Pathway // Tidechannel Pathway",
+      "Colore": "GU"
+    },
+    {
+      "nome": "Blightstep Pathway // Searstep Pathway",
+      "Colore": "BR"
+    },
+    {
+      "nome": "Branchloft Pathway // Boulderloft Pathway",
+      "Colore": "GW"
+    },
+    {
+      "nome": "Brightclimb Pathway // Grimclimb Pathway",
+      "Colore": "WB"
+    },
+    {
+      "nome": "Clearwater Pathway // Murkwater Pathway",
+      "Colore": "UB"
+    },
+    {
+      "nome": "Cragcrown Pathway // Timbercrown Pathway",
+      "Colore": "RG"
+    },
+    {
+      "nome": "Darkbore Pathway // Slitherbore Pathway",
+      "Colore": "BG"
+    },
+    {
+      "nome": "Hengegate Pathway // Mistgate Pathway",
+      "Colore": "WU"
+    },
+    {
+      "nome": "Needleverge Pathway // Pillarverge Pathway",
+      "Colore": "WR"
+    },
+    {
+      "nome": "Riverglide Pathway // Lavaglide Pathway",
+      "Colore": "UR"
+    }
+  ]
+
+
+
+
+}

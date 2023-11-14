@@ -1,0 +1,241 @@
+{
+	"Ramos": [
+  {
+    "nome": "Tooth of Ramos",
+    "colore": "W"
+  },
+  {
+    "nome": "Eye of Ramos",
+    "colore": "U"
+  },
+  {
+    "nome": "Skull of Ramos",
+    "colore": "B"
+  },
+  {
+    "nome": "Heart of Ramos",
+    "colore": "R"
+  },
+  {
+    "nome": "Horn of Ramos",
+    "colore": "G"
+  }
+],
+ "Diamonds": [
+    {
+      "nome": "Marble Diamond",
+      "colore": "W"
+    },
+    {
+      "nome": "Sky Diamond",
+      "colore": "U"
+    },
+    {
+      "nome": "Charcoal Diamond",
+      "colore": "B"
+    },
+    {
+      "nome": "Fire Diamond",
+      "colore": "R"
+    },
+    {
+      "nome": "Moss Diamond",
+      "colore": "G"
+    }
+  ],
+   "Talisman": [
+    {
+      "nome": "Talisman of Progress",
+      "colore": "WU"
+    },
+    {
+      "nome": "Talisman of Dominance",
+      "colore": "UB"
+    },
+    {
+      "nome": "Talisman of Hierarchy",
+      "colore": "WB"
+    },
+    {
+      "nome": "Talisman of Resilience",
+      "colore": "GR"
+    },
+    {
+      "nome": "Talisman of Unity",
+      "colore": "WG"
+    },
+    {
+      "nome": "Talisman of Indulgence",
+      "colore": "BR"
+    },
+    {
+      "nome": "Talisman of Impulse",
+      "colore": "RG"
+    },
+    {
+      "nome": "Talisman of Curiosity",
+      "colore": "UG"
+    },
+    {
+      "nome": "Talisman of Creativity",
+      "colore": "UR"
+    },
+    {
+      "nome": "Talisman of Conviction",
+      "colore": "WR"
+    }
+  ],
+  "Signet": [
+    {
+      "nome": "Azorius Signet",
+      "colore": "WU"
+    },
+    {
+      "nome": "Boros Signet",
+      "colore": "WR"
+    },
+    {
+      "nome": "Dimir Signet",
+      "colore": "UB"
+    },
+    {
+      "nome": "Golgari Signet",
+      "colore": "BG"
+    },
+    {
+      "nome": "Gruul Signet",
+      "colore": "RG"
+    },
+    {
+      "nome": "Orzhov Signet",
+      "colore": "WB"
+    },
+    {
+      "nome": "Selesnya Signet",
+      "colore": "WG"
+    },
+    {
+      "nome": "Rakdos Signet",
+      "colore": "BR"
+    },
+    {
+      "nome": "Simic Signet",
+      "colore": "UG"
+    },
+    {
+      "nome": "Izzet Signet",
+      "colore": "UR"
+    },
+	{
+      "nome": "Arcane signet",
+      "colore": "A"
+    }
+  ],
+   "2ManaAllColor": [
+    {
+      "nome": "Fellwar Stone",
+      "colore": "A"
+    },
+    {
+      "nome": "Sphere of the suns",
+      "colore": "A"
+    },
+    {
+      "nome": "pentad prism",
+      "colore": "A"
+    },
+    {
+      "nome": "Coldsteel Heart",
+      "colore": "A"
+    }
+  ],
+  "2ManaColorless": [
+    {
+      "nome": "Liquimetal Torque",
+      "colore": "C"
+    },
+    {
+      "nome": "Mind Stone",
+      "colore": "C"
+    },
+    {
+      "nome": "Thought Vessel",
+      "colore": "C"
+    },
+    {
+      "nome": "Prismatic Lens",
+      "colore": "C"
+    }
+  ],
+  "Monuments": [
+    {
+      "nome": "Bontu's Monument",
+      "colore": "B"
+    },
+    {
+      "nome": "Oketra's Monument",
+      "colore": "W"
+    },
+    {
+      "nome": "Kefnet's Monument",
+      "colore": "U"
+    },
+    {
+      "nome": "Rhonas's Monument",
+      "colore": "G"
+    },
+    {
+      "nome": "Hazoret's Monument",
+      "colore": "R"
+    }
+  ],
+   "AllColorDorks": [
+    {
+      "nome": "Ornithopter of Paradise",
+      "colore": "A"
+    },
+    {
+      "nome": "Myr Convert",
+      "colore": "A"
+    }
+  ],
+  "Colorless&AnycolorDorks": [
+    {
+      "nome": "Gold Myr",
+      "colore": "W"
+    },
+    {
+      "nome": "Silver Myr",
+      "colore": "U"
+    },
+    {
+      "nome": "Leaden Myr",
+      "colore": "B"
+    },
+    {
+      "nome": "Iron Myr",
+      "colore": "R"
+    },
+    {
+      "nome": "Copper Myr",
+      "colore": "G"
+    },
+    {
+      "nome": "Millikin",
+      "colore": "C"
+    },
+	{
+      "nome": "Manakin",
+      "colore": "C"
+    },
+	{
+      "nome": "Plague Myr",
+      "colore": "C"
+    },
+	{
+      "nome": "Hedron Crawler",
+      "colore": "C"
+    }
+  ]
+
+}
